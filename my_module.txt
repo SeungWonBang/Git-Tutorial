@@ -2,4 +2,4 @@ def add
 
 def min
 
-def mul
+def mul // 주석
